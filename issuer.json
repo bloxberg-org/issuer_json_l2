@@ -14,8 +14,23 @@
       "created": "2020-08-21T09:56:23.758198+00:00"
     },
     {
+      "id": "ecdsa-koblitz-pubkey:0x995b5A82500bc2558Fd37937e795f6468F14642c"
+    }
+  ],
+  "verificationMethod": [
+    {
       "id": "ecdsa-koblitz-pubkey:0x995b5A82500bc2558Fd37937e795f6468F14642c",
-      "created": "2026-04-22T00:00:00.000000+00:00"
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "https://raw.githubusercontent.com/ignatkhar/issuer_json/master/issuer.json",
+      "blockchainAccountId": "eip155:8995:0x995b5A82500bc2558Fd37937e795f6468F14642c"
+    }
+  ],
+  "assertionMethod": [
+    "ecdsa-koblitz-pubkey:0x995b5A82500bc2558Fd37937e795f6468F14642c"
+  ],
+  "issuerKeys": [
+    {
+      "key": "ecdsa-koblitz-pubkey:0x995b5A82500bc2558Fd37937e795f6468F14642c"
     }
   ],
   "revocationList": "https://raw.githubusercontent.com/ignatkhar/issuer_json/master/revocation_list.json",
