@@ -22,7 +22,7 @@
       "id": "ecdsa-koblitz-pubkey:0x995b5A82500bc2558Fd37937e795f6468F14642c",
       "type": "EcdsaSecp256k1VerificationKey2019",
       "controller": "https://raw.githubusercontent.com/bloxberg-org/issuer_json_l2/master/issuer.json",
-      "blockchainAccountId": "eip155:8995:0x995b5A82500bc2558Fd37937e795f6468F14642c"
+      "blockchainAccountId": "eip155:77888:0x995b5A82500bc2558Fd37937e795f6468F14642c"
     }
   ],
   "assertionMethod": [
